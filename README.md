@@ -6,7 +6,7 @@ Registration Page
 </head>DFG
 <br>
 <br>gf
-<form>
+<form>HHH
 
 <label> Firstname </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
