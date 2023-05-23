@@ -6,7 +6,7 @@ Registration Page
 </head>
 <br>
 <br>
-<form>
+<form>gfds
 
 <label> Firstname </label>       
 <input type="text" name="firstname" size="15"/> <br> <br>
